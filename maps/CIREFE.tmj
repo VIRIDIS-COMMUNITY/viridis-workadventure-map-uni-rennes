@@ -1474,7 +1474,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/youtube.com\/live\/pXfyS8cVV9g"
+                         "value":"https:\/\/www.youtube.com\/embed\/pXfyS8cVV9g"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1621,7 +1621,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"VERSION 1.07",
+                     "text":"VERSION 1.08",
                      "wrap":true
                     },
                  "type":"",
