@@ -1529,6 +1529,24 @@
                  "width":249.333,
                  "x":806.000166666667,
                  "y":1118.16683333333
+                }, 
+                {
+                 "ellipse":true,
+                 "height":69.3333,
+                 "id":40,
+                 "name":"Viridis WorkSpace",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"HallOfFame.tmj#Enterance"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":73.3333,
+                 "x":4781.51516818182,
+                 "y":265.33335
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1679,7 +1697,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":40,
+ "nextobjectid":41,
  "orientation":"orthogonal",
  "properties":[
         {
