@@ -1534,7 +1534,7 @@
                  "ellipse":true,
                  "height":69.3333,
                  "id":40,
-                 "name":"Viridis WorkSpace",
+                 "name":"HallOfFame",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -1547,6 +1547,45 @@
                  "width":73.3333,
                  "x":4781.51516818182,
                  "y":265.33335
+                }, 
+                {
+                 "height":30,
+                 "id":41,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Segoe Script",
+                     "pixelsize":19,
+                     "text":"ICEBREAKER"
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":150,
+                 "x":3337.5,
+                 "y":1091
+                }, 
+                {
+                 "height":141.333,
+                 "id":47,
+                 "name":"jitsi 3",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Salle3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":288,
+                 "x":3263,
+                 "y":1049.3335
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1696,8 +1735,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":78,
- "nextobjectid":41,
+ "nextlayerid":79,
+ "nextobjectid":48,
  "orientation":"orthogonal",
  "properties":[
         {
