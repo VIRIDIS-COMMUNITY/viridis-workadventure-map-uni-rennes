@@ -1600,11 +1600,11 @@
                 {
                  "height":19,
                  "id":53,
-                 "name":"",
+                 "name":"VERSION CONTROL",
                  "rotation":0,
                  "text":
                     {
-                     "text":"VERSION 1.10",
+                     "text":"VERSION 1.11",
                      "wrap":true
                     },
                  "type":"",
@@ -1646,6 +1646,54 @@
                  "width":103.5,
                  "x":1620.25,
                  "y":1004.25
+                }, 
+                {
+                 "height":19,
+                 "id":57,
+                 "name":"Couch1-Icebreaker",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Start Here!",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":83,
+                 "x":3337.5,
+                 "y":1095.5
+                }, 
+                {
+                 "height":20,
+                 "id":58,
+                 "name":"TestStage1",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Goals of Today",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":150,
+                 "x":3668.5,
+                 "y":1126.5
+                }, 
+                {
+                 "height":19,
+                 "id":60,
+                 "name":"ideas",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Welcome - Add your name to the guest book",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":200,
+                 "x":2110.5,
+                 "y":1649.16666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1796,7 +1844,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":57,
+ "nextobjectid":61,
  "orientation":"orthogonal",
  "properties":[
         {
