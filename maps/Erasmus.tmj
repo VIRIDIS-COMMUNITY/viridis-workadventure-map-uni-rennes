@@ -2301,6 +2301,22 @@
                  "width":307.968,
                  "x":1420.016,
                  "y":3402.5319
+                }, 
+                {
+                 "height":19,
+                 "id":236,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"VERSION 1.03",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":200,
+                 "x":776,
+                 "y":3538.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3035,7 +3051,7 @@
          "y":0
         }],
  "nextlayerid":124,
- "nextobjectid":236,
+ "nextobjectid":237,
  "orientation":"orthogonal",
  "properties":[
         {

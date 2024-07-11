@@ -4219,6 +4219,22 @@
                  "width":59,
                  "x":1871.83333333333,
                  "y":106.833333333333
+                }, 
+                {
+                 "height":19,
+                 "id":141,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"VERSION 1.03",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":200,
+                 "x":1724,
+                 "y":22.5
                 }],
          "offsetx":-1.33333333333334,
          "offsety":-2.66666666666669,
@@ -4403,7 +4419,7 @@
          "y":0
         }],
  "nextlayerid":70,
- "nextobjectid":141,
+ "nextobjectid":142,
  "orientation":"orthogonal",
  "properties":[
         {
