@@ -1435,12 +1435,12 @@
                 {
                  "height":92,
                  "id":36,
-                 "name":"Live Presentations",
+                 "name":"livre d'or",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/digipad.app\/p\/818029\/156aa9ba5f314"
+                         "value":"https:\/\/digipad.app\/p\/785177\/c789a4724c9be"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1450,7 +1450,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press Space to go to the Pad"
+                         "value":"Appuyez sur ESPACE ou touchez pour laisser vos messages"
                         }],
                  "rotation":0,
                  "type":"",
@@ -1477,7 +1477,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press Space to interact"
+                         "value":"Appuyez sur ESPACE ou touchez pour laisser vos messages"
                         }],
                  "rotation":0,
                  "type":"",
@@ -1529,6 +1529,42 @@
                  "width":249.333,
                  "x":806.000166666667,
                  "y":1118.16683333333
+                }, 
+                {
+                 "ellipse":true,
+                 "height":65.3333,
+                 "id":43,
+                 "name":"Hall Of Fame",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/Erasmus.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":73.3333,
+                 "x":4782.33335,
+                 "y":322.33335
+                }, 
+                {
+                 "ellipse":true,
+                 "height":69.3333,
+                 "id":48,
+                 "name":"To The Lab",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/rennes2-hall.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":73.3333,
+                 "x":4219.33335,
+                 "y":333.33335
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1679,7 +1715,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":40,
+ "nextobjectid":49,
  "orientation":"orthogonal",
  "properties":[
         {

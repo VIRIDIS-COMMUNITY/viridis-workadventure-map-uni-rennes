@@ -2392,7 +2392,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":136,
                  "id":18,
                  "name":"37 UR2",
@@ -2403,13 +2402,13 @@
                          "value":"https:\/\/view.genial.ly\/60084992c29ab80cffa1dde1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":104,
                  "x":1109.33333333333,
                  "y":413.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":137.333333333333,
                  "id":20,
                  "name":"FRAME",
@@ -2420,13 +2419,13 @@
                          "value":"https:\/\/framevr.io\/jeelicc"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":251,
                  "x":675,
                  "y":48
                 }, 
                 {
-                 "class":"area",
                  "height":56.9999666666668,
                  "id":21,
                  "name":"38 UR2",
@@ -2447,13 +2446,13 @@
                          "value":"Appuyez sur ESPACE ou touchez pour laisser vos coordonn\u00e9es"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":1023.66666666667,
                  "y":497.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":122.666666666667,
                  "id":23,
                  "name":"Zora Godard et Albane Le Cleach ",
@@ -2464,13 +2463,13 @@
                          "value":"https:\/\/view.genial.ly\/65f30afd165b6c0014113d38"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":185.333333333333,
                  "x":134.666666666667,
                  "y":757.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":160,
                  "id":24,
                  "name":"L208",
@@ -2491,13 +2490,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":288,
                  "x":32,
                  "y":2176
                 }, 
                 {
-                 "class":"area",
                  "height":148,
                  "id":25,
                  "name":"Jitsi L248",
@@ -2518,13 +2517,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":256,
                  "x":3360,
                  "y":780
                 }, 
                 {
-                 "class":"area",
                  "height":160,
                  "id":26,
                  "name":"L249",
@@ -2545,13 +2544,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":256,
                  "x":3360,
                  "y":2176
                 }, 
                 {
-                 "class":"area",
                  "height":230.666666666667,
                  "id":28,
                  "name":"enigme 4",
@@ -2562,13 +2561,13 @@
                          "value":"https:\/\/www.thinglink.com\/view\/scene\/1690063379227476963"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":403.333333333333,
                  "x":3023,
                  "y":17
                 }, 
                 {
-                 "class":"area",
                  "height":131.333333333333,
                  "id":29,
                  "name":"45 UR2",
@@ -2579,13 +2578,13 @@
                          "value":"https:\/\/h5p.org\/h5p\/embed\/1341914"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":260,
                  "x":3356,
                  "y":1868.66666666667
                 }, 
                 {
-                 "class":"area",
                  "height":148,
                  "id":30,
                  "name":"56 UR2",
@@ -2596,13 +2595,13 @@
                          "value":"https:\/\/h5p.org\/h5p\/embed\/1359678"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":86,
                  "x":1105.66333333333,
                  "y":771.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":57,
                  "id":31,
                  "name":"55 UR2",
@@ -2623,13 +2622,13 @@
                          "value":"Appuyez sur ESPACE ou touchez pour laisser vos coordonn\u00e9es"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":1024,
                  "y":849.667
                 }, 
                 {
-                 "class":"area",
                  "height":155.333333333333,
                  "id":32,
                  "name":"75",
@@ -2640,13 +2639,13 @@
                          "value":"https:\/\/formations.univ-rennes2.fr\/plugins\/odf-rennes2\/www\/_content\/program-licence-etudes-chinoises-niveau-confirme-2-2.pdf"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":76,
                  "x":1113.66333333333,
                  "y":1125.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":57,
                  "id":33,
                  "name":"76 UR2",
@@ -2667,13 +2666,13 @@
                          "value":"Appuyez sur ESPACE ou touchez pour laisser vos coordonn\u00e9es"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":1024,
                  "y":1201.667
                 }, 
                 {
-                 "class":"area",
                  "height":140,
                  "id":34,
                  "name":"61 UR2",
@@ -2684,13 +2683,13 @@
                          "value":"https:\/\/view.genial.ly\/640f3cc16db24a0019b79160"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":84.6666666666665,
                  "x":1107.66333333333,
                  "y":1486
                 }, 
                 {
-                 "class":"area",
                  "height":57,
                  "id":35,
                  "name":"63 UR2",
@@ -2711,13 +2710,13 @@
                          "value":"Appuyez sur ESPACE ou touchez pour laisser vos coordonn\u00e9es"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":1024,
                  "y":1553.667
                 }, 
                 {
-                 "class":"area",
                  "height":116.666666666667,
                  "id":36,
                  "name":"68 UR2",
@@ -2728,13 +2727,13 @@
                          "value":"https:\/\/view.genial.ly\/64010259fc222000188bc3ce"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":107.333333333333,
                  "x":1220.99666666667,
                  "y":1809.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":57,
                  "id":37,
                  "name":"70 UR2",
@@ -2755,13 +2754,13 @@
                          "value":"Appuyez sur ESPACE ou touchez pour laisser vos coordonn\u00e9es"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":1024,
                  "y":1930.33366666667
                 }, 
                 {
-                 "class":"area",
                  "height":68,
                  "id":38,
                  "name":"SUP",
@@ -2772,13 +2771,13 @@
                          "value":"https:\/\/view.genial.ly\/6401d07290c9630011324aa3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":58.666666666667,
                  "x":2568.99666666667,
                  "y":474
                 }, 
                 {
-                 "class":"area",
                  "height":159.333333333333,
                  "id":40,
                  "name":"65 UR2",
@@ -2789,13 +2788,13 @@
                          "value":"https:\/\/view.genial.ly\/640081722830ec001a66200f"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":78.666666666667,
                  "x":2452.66666666667,
                  "y":772.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":57,
                  "id":41,
                  "name":"DE_Form",
@@ -2816,13 +2815,13 @@
                          "value":"Appuyez sur ESPACE ou touchez pour laisser vos coordonn\u00e9es"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":2559.17,
                  "y":852.167
                 }, 
                 {
-                 "class":"area",
                  "height":192,
                  "id":42,
                  "name":"59 UR2",
@@ -2833,13 +2832,13 @@
                          "value":"https:\/\/www.youtube.com\/embed\/28XNkI-jIeo"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":93.3333333333335,
                  "x":2447.33333333333,
                  "y":1120
                 }, 
                 {
-                 "class":"area",
                  "height":57,
                  "id":43,
                  "name":"60 UR2",
@@ -2860,13 +2859,13 @@
                          "value":"Appuyez sur ESPACE ou touchez pour laisser vos coordonn\u00e9es"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":2559.17,
                  "y":1204.167
                 }, 
                 {
-                 "class":"area",
                  "height":152,
                  "id":44,
                  "name":"72 pr\u00e9sentation Italien",
@@ -2877,13 +2876,13 @@
                          "value":"https:\/\/ubicast.visio.univ-rennes2.fr\/permalink\/v1263e31938598jxvo9t\/iframe\/"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":70,
                  "x":2464.66666666667,
                  "y":1472
                 }, 
                 {
-                 "class":"area",
                  "height":57,
                  "id":45,
                  "name":"73 UR2 ",
@@ -2904,13 +2903,13 @@
                          "value":"Appuyez sur ESPACE ou touchez pour laisser vos coordonn\u00e9es"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":2559.17,
                  "y":1556.167
                 }, 
                 {
-                 "class":"area",
                  "height":132,
                  "id":46,
                  "name":"54 UR2",
@@ -2921,13 +2920,13 @@
                          "value":"https:\/\/h5p.org\/h5p\/embed\/1067149"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":50,
                  "x":2474,
                  "y":1872
                 }, 
                 {
-                 "class":"area",
                  "height":178.000000000001,
                  "id":48,
                  "name":"Cafet2",
@@ -2943,13 +2942,13 @@
                          "value":"admin"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":384,
                  "x":1628,
                  "y":1133.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":72.5,
                  "id":49,
                  "name":"info",
@@ -2970,13 +2969,13 @@
                          "value":"Appuyez sur ESPACE ou touchez pour ouvrir le panneau d\u2019information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":52.75,
                  "x":1909.375,
                  "y":2112.25
                 }, 
                 {
-                 "class":"area",
                  "height":72.5,
                  "id":50,
                  "name":"survey",
@@ -2997,13 +2996,13 @@
                          "value":"Appuyez sur ESPACE ou touchez pour ouvrir le questionnaire d\u2019\u00e9valuation de la plateforme"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":52.75,
                  "x":1684.375,
                  "y":2113
                 }, 
                 {
-                 "class":"area",
                  "height":142,
                  "id":53,
                  "name":"Enigme 2",
@@ -3014,13 +3013,13 @@
                          "value":"https:\/\/www.thinglink.com\/view\/scene\/1690707430352093988"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":205.25,
                  "x":3030.26893939394,
                  "y":540.56818181818
                 }, 
                 {
-                 "class":"area",
                  "height":118,
                  "id":54,
                  "name":"L249_Website_Bonus",
@@ -3036,13 +3035,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":256.25,
                  "x":3359.82196969697,
                  "y":1574.5303030303
                 }, 
                 {
-                 "class":"area",
                  "height":61.3333333333334,
                  "id":55,
                  "name":"39 UR2",
@@ -3053,13 +3052,13 @@
                          "value":"https:\/\/view.genial.ly\/601812273663c90dac2fa4dc"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":77.3333333333333,
                  "x":1117.33333333333,
                  "y":578.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":88,
                  "id":56,
                  "name":"40 UR2",
@@ -3070,13 +3069,13 @@
                          "value":"https:\/\/view.genial.ly\/6401f3395ef7d500113c9820"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":142.666666666667,
                  "x":1255.33333333333,
                  "y":434
                 }, 
                 {
-                 "class":"area",
                  "height":76,
                  "id":57,
                  "name":"57 UR2",
@@ -3087,13 +3086,13 @@
                          "value":"https:\/\/view.genial.ly\/6411ca78da002c001ad45a6f"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":50,
                  "x":1256.66666666667,
                  "y":764.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":86.6666666666666,
                  "id":58,
                  "name":"58 UR2",
@@ -3104,13 +3103,13 @@
                          "value":"https:\/\/h5p.org\/h5p\/embed\/1361628"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":60.6666666666667,
                  "x":1192.66666666667,
                  "y":938.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":110.666666666667,
                  "id":59,
                  "name":"62 UR2",
@@ -3121,13 +3120,13 @@
                          "value":"https:\/\/www.youtube.com\/embed\/LjFt58_jQ6g"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":114,
                  "x":1206,
                  "y":1388.66666666667
                 }, 
                 {
-                 "class":"area",
                  "height":92,
                  "id":60,
                  "name":"65 UR2",
@@ -3138,13 +3137,13 @@
                          "value":"https:\/\/www.thinglink.com\/view\/scene\/1687513640082604836"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":45.3333333333333,
                  "x":1238,
                  "y":1522.66666666667
                 }, 
                 {
-                 "class":"area",
                  "height":85.3333333333333,
                  "id":61,
                  "name":"64 UR2",
@@ -3155,13 +3154,13 @@
                          "value":"https:\/\/view.genial.ly\/6401cdfd5ef7d500113c3822"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":80,
                  "x":1022,
                  "y":1645.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":82,
                  "id":62,
                  "name":"41 UR2 ",
@@ -3172,13 +3171,13 @@
                          "value":"https:\/\/www.thinglink.com\/view\/scene\/1357170246300991491"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":62.666666666667,
                  "x":2567.33333333333,
                  "y":1901.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":84.667,
                  "id":63,
                  "name":"46 UR2",
@@ -3189,13 +3188,13 @@
                          "value":"https:\/\/view.genial.ly\/63c562ddb93e6a001274d489"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":260,
                  "x":3357,
                  "y":1742.33316666667
                 }, 
                 {
-                 "class":"area",
                  "height":104.667,
                  "id":64,
                  "name":"43 MOOC GENRE",
@@ -3206,13 +3205,13 @@
                          "value":"https:\/\/h5p.org\/h5p\/embed\/1341880"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":245.333333333333,
                  "x":3038,
                  "y":1579.99983333333
                 }, 
                 {
-                 "class":"area",
                  "height":242.667,
                  "id":65,
                  "name":"44 UR2",
@@ -3223,13 +3222,13 @@
                          "value":"https:\/\/h5p.org\/h5p\/embed\/1341904"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":260,
                  "x":3032.66666666667,
                  "y":1729.33316666667
                 }, 
                 {
-                 "class":"area",
                  "height":131.333,
                  "id":66,
                  "name":"46 UR2",
@@ -3240,13 +3239,13 @@
                          "value":"https:\/\/view.genial.ly\/63c56bf06382160011ca8206"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":260,
                  "x":3041.33333333333,
                  "y":1998.3335
                 }, 
                 {
-                 "class":"area",
                  "height":69.9996666666666,
                  "id":67,
                  "name":"45 UR2",
@@ -3257,13 +3256,13 @@
                          "value":"https:\/\/view.genial.ly\/63c55e5a8790d50011d6eb32"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":260,
                  "x":3358,
                  "y":2053.66683333333
                 }, 
                 {
-                 "class":"area",
                  "height":150.666666666667,
                  "id":68,
                  "name":"49 UR2",
@@ -3274,13 +3273,13 @@
                          "value":"https:\/\/view.genial.ly\/63c6f682dc5c790013644429"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94,
                  "x":2315.33333333333,
                  "y":1771.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":70,
                  "id":69,
                  "name":"50 UR2",
@@ -3291,13 +3290,13 @@
                          "value":"https:\/\/view.genial.ly\/63c64bec8790d50011d838a9"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":82,
                  "x":2571.33333333333,
                  "y":1802
                 }, 
                 {
-                 "class":"area",
                  "height":92.6666666666661,
                  "id":71,
                  "name":"52 UR2",
@@ -3308,13 +3307,13 @@
                          "value":"https:\/\/leguenyann0.wixsite.com\/cademenage"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":62.6666666666665,
                  "x":2625.33333333333,
                  "y":2048
                 }, 
                 {
-                 "class":"area",
                  "height":44.666666666667,
                  "id":72,
                  "name":"53 UR2",
@@ -3325,13 +3324,13 @@
                          "value":"https:\/\/sequencepedagogique.wixsite.com\/trouver-un-logement"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":212,
                  "x":2342,
                  "y":2054.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":178.666666666667,
                  "id":73,
                  "name":"54 UR2",
@@ -3342,13 +3341,13 @@
                          "value":"https:\/\/declamefle.hypotheses.org\/"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":66,
                  "x":2213.33333333333,
                  "y":1876
                 }, 
                 {
-                 "class":"area",
                  "height":141.333333333333,
                  "id":74,
                  "name":"74 UR2",
@@ -3359,13 +3358,13 @@
                          "value":"https:\/\/view.genial.ly\/6411e0f1da002c001ad49633"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":70.666666666667,
                  "x":2327.33333333333,
                  "y":1407.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":128.333333333333,
                  "id":75,
                  "name":"Allemand UR2",
@@ -3376,13 +3375,13 @@
                          "value":"https:\/\/drive.google.com\/file\/d\/1Zj8gm-5a0khGXwgqTeXjqSCgt5CUDI0y\/preview"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":90.666666666667,
                  "x":2327.33333333333,
                  "y":746.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":124,
                  "id":76,
                  "name":"61 UR2",
@@ -3393,13 +3392,13 @@
                          "value":"https:\/\/view.genial.ly\/601448d722eaac0d7191cdc0"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":83.3333333333335,
                  "x":2332.66666666667,
                  "y":1059.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":148,
                  "id":77,
                  "name":"Cafet",
@@ -3420,13 +3419,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":120,
                  "x":2048,
                  "y":1028
                 }, 
                 {
-                 "class":"area",
                  "height":179,
                  "id":79,
                  "name":"Cafet",
@@ -3447,13 +3446,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":174,
                  "x":1483,
                  "y":415
                 }, 
                 {
-                 "class":"area",
                  "height":164,
                  "id":81,
                  "name":"Cafet",
@@ -3474,13 +3473,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":174,
                  "x":1990,
                  "y":425
                 }, 
                 {
-                 "class":"area",
                  "height":135.333333333333,
                  "id":82,
                  "name":"Cafet2",
@@ -3501,13 +3500,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":130,
                  "x":1470,
                  "y":1040.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":150,
                  "id":83,
                  "name":"Accueil UFR",
@@ -3518,13 +3517,13 @@
                          "value":"https:\/\/www.youtube.com\/embed\/FGeujm2DZrQ"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":108,
                  "x":1242,
                  "y":222
                 }, 
                 {
-                 "class":"area",
                  "height":151.3333,
                  "id":84,
                  "name":"Cafet5",
@@ -3545,13 +3544,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":176,
                  "x":1484,
                  "y":812.33335
                 }, 
                 {
-                 "class":"area",
                  "height":135.333,
                  "id":85,
                  "name":"Cafet",
@@ -3572,13 +3571,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":130,
                  "x":1467,
                  "y":1248.3335
                 }, 
                 {
-                 "class":"area",
                  "height":135.333,
                  "id":86,
                  "name":"Cafet",
@@ -3599,13 +3598,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":130,
                  "x":2049,
                  "y":1240.3335
                 }, 
                 {
-                 "class":"area",
                  "height":177.5,
                  "id":88,
                  "name":"Tableau de bord",
@@ -3626,13 +3625,13 @@
                          "value":"Appuyez sur ESPACE ou touchez pour ouvrir le tableau de bord ! "
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":230.75,
                  "x":1998.625,
                  "y":780.75
                 }, 
                 {
-                 "class":"area",
                  "height":107,
                  "id":94,
                  "name":"APUII",
@@ -3643,13 +3642,13 @@
                          "value":"https:\/\/www.youtube.com\/embed\/SabjCzwUNqU"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":75,
                  "x":1419,
                  "y":2188
                 }, 
                 {
-                 "class":"area",
                  "height":153,
                  "id":95,
                  "name":"Pr\u00e9sentation",
@@ -3660,13 +3659,13 @@
                          "value":"https:\/\/view.genial.ly\/64138eeff59a3c0019c46f93"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":62,
                  "x":1513,
                  "y":2140
                 }, 
                 {
-                 "class":"area",
                  "height":109,
                  "id":96,
                  "name":"BRIO 2",
@@ -3677,13 +3676,13 @@
                          "value":"https:\/\/view.genial.ly\/64138edfb650eb0011bf090a"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":59,
                  "x":1588,
                  "y":2188
                 }, 
                 {
-                 "class":"area",
                  "height":272,
                  "id":101,
                  "name":"enigme 3",
@@ -3694,13 +3693,13 @@
                          "value":"https:\/\/www.thinglink.com\/view\/scene\/1689998789483430883"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":274,
                  "x":3352,
                  "y":412
                 }, 
                 {
-                 "class":"area",
                  "height":168,
                  "id":102,
                  "name":"Jitsi ESP",
@@ -3716,13 +3715,13 @@
                          "value":"admin"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":1123,
                  "y":1859
                 }, 
                 {
-                 "class":"area",
                  "height":108,
                  "id":104,
                  "name":"Mathilde Fontalbe et Maelenn Kokota Ngualo",
@@ -3733,13 +3732,13 @@
                          "value":"https:\/\/learningapps.org\/watch?v=p7fexkp1324"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":225,
                  "x":247,
                  "y":38
                 }, 
                 {
-                 "class":"area",
                  "height":93.6666666666667,
                  "id":105,
                  "name":"LINDA",
@@ -3750,13 +3749,13 @@
                          "value":"https:\/\/view.genial.ly\/65f343c127ac2d0014e45a5c"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":184,
                  "x":198.333333333333,
                  "y":1092
                 }, 
                 {
-                 "class":"area",
                  "height":121,
                  "id":107,
                  "name":"UEO PRO FLE ",
@@ -3767,13 +3766,13 @@
                          "value":"https:\/\/fr.educaplay.com\/ressources-pedagogiques\/14038789-allons_a_l_hotel.html"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":3329,
                  "y":1308
                 }, 
                 {
-                 "class":"area",
                  "height":183,
                  "id":108,
                  "name":"UEO PRO Fle G3",
@@ -3784,13 +3783,13 @@
                          "value":"https:\/\/fr.educaplay.com\/ressources-pedagogiques\/14014652-partons_en_vacances.html"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":92,
                  "x":3513,
                  "y":1293
                 }, 
                 {
-                 "class":"area",
                  "height":161.666666666667,
                  "id":109,
                  "name":"Tatiana et James",
@@ -3801,13 +3800,13 @@
                          "value":"https:\/\/view.genial.ly\/65f888dbe298db0014708838"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":157,
                  "x":459,
                  "y":493.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":117,
                  "id":110,
                  "name":"UEO PRO FLE G5",
@@ -3818,13 +3817,13 @@
                          "value":"https:\/\/fr.educaplay.com\/ressources-pedagogiques\/14121858-niv_a1_c_o_apprenant_anglais.html"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":154,
                  "x":1507,
                  "y":1484
                 }, 
                 {
-                 "class":"area",
                  "height":112,
                  "id":111,
                  "name":"ueo pro fle G7",
@@ -3835,13 +3834,13 @@
                          "value":"https:\/\/learningapps.org\/watch?v=p8gncch9523"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":130,
                  "x":2008,
                  "y":1502
                 }, 
                 {
-                 "class":"area",
                  "height":252,
                  "id":112,
                  "name":"UEO PRO FLE G6",
@@ -3852,13 +3851,13 @@
                          "value":"https:\/\/learnin\u200b\u200bgapps.org\/watch?v=pk0t7i5bn23"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":246,
                  "x":1434,
                  "y":1776
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":113,
                  "name":"UEO PRO FLE G8",
@@ -3869,13 +3868,13 @@
                          "value":"https:\/\/learningapps.org\/watch?v=pv9hj8ait23"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":74,
                  "x":2464,
                  "y":1004
                 }, 
                 {
-                 "class":"area",
                  "height":110.666666666667,
                  "id":114,
                  "name":"EG italien",
@@ -3896,13 +3895,13 @@
                          "value":"Appuyez sur ESPACE pour ouvrir"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":125.333333333333,
                  "x":2592,
                  "y":1382.66666666667
                 }, 
                 {
-                 "class":"area",
                  "height":98.6666666666667,
                  "id":116,
                  "name":"eg ital",
@@ -3913,13 +3912,13 @@
                          "value":"https:\/\/view.genial.ly\/640601a67b728e0011a465d7"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":81.3333333333335,
                  "x":2333.33333333333,
                  "y":1582.66666666667
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":117,
                  "name":"door_elicce",
@@ -3951,13 +3950,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":2176,
                  "y":2276
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":118,
                  "name":"doorBRIO",
@@ -3989,13 +3988,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":3184,
                  "y":905.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":170,
                  "id":119,
                  "name":"Activit\u00e9 Pierre",
@@ -4006,13 +4005,13 @@
                          "value":"https:\/\/cursus.univ-rennes2.fr\/mod\/h5pactivity\/view.php?id=722366"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":278,
                  "x":33,
                  "y":1534
                 }, 
                 {
-                 "class":"area",
                  "height":69,
                  "id":120,
                  "name":"Ressources activit\u00e9",
@@ -4023,13 +4022,13 @@
                          "value":"https:\/\/cursus.univ-rennes2.fr\/mod\/folder\/view.php?id=724762&forceview=1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":79,
                  "x":554,
                  "y":1505
                 }, 
                 {
-                 "class":"area",
                  "height":112,
                  "id":122,
                  "name":"Boite \u00e0 outils FLE",
@@ -4040,13 +4039,13 @@
                          "value":"https:\/\/view.genial.ly\/64808a0d57cc1c0019514d39"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":176,
                  "x":447,
                  "y":2016.66666666667
                 }, 
                 {
-                 "class":"area",
                  "height":174,
                  "id":123,
                  "name":"salle sup",
@@ -4062,13 +4061,13 @@
                          "value":"admin"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":130,
                  "x":2428,
                  "y":422
                 }, 
                 {
-                 "class":"area",
                  "height":122,
                  "id":124,
                  "name":"genially",
@@ -4079,13 +4078,13 @@
                          "value":"https:\/\/bit.ly\/miroir723"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":74,
                  "x":2328,
                  "y":516
                 }, 
                 {
-                 "class":"area",
                  "height":168,
                  "id":125,
                  "name":"visite SCD",
@@ -4096,13 +4095,13 @@
                          "value":"https:\/\/cursus.univ-rennes2.fr\/mod\/h5pactivity\/view.php?id=722369"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":230.666666666667,
                  "x":81.3333333333333,
                  "y":1309.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":161.333333333333,
                  "id":126,
                  "name":"Enora AUBIN et Emmy",
@@ -4113,13 +4112,13 @@
                          "value":"https:\/\/view.genial.ly\/65fa0940c127b6001481b766"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":152,
                  "x":44,
                  "y":486.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":125.333333333333,
                  "id":130,
                  "name":"ABDOU Yourdasmine et LOISON Rosanna",
@@ -4130,13 +4129,13 @@
                          "value":"https:\/\/view.genial.ly\/65f6e55a04d2980013139f06"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":130.666666666667,
                  "x":482.666666666667,
                  "y":246.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":124,
                  "id":131,
                  "name":"Clyde et Tanguy",
@@ -4147,13 +4146,13 @@
                          "value":"https:\/\/learningapps.org\/watch?v=pvtt7qee324"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":126.666666666667,
                  "x":54.6666666666667,
                  "y":205.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":132,
                  "name":"monde virtuel ELICC",
@@ -4164,6 +4163,7 @@
                          "value":"https:\/\/framevr.io\/jeelicc"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":83,
                  "x":671.333333333333,
@@ -4386,7 +4386,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.1",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -5037,6 +5037,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":114
 }
