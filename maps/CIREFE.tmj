@@ -1421,7 +1421,7 @@
                  "name":"\u00e9tages CIREFE",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/map.tmj"
                         }],
