@@ -1479,7 +1479,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conf\u00e9rence"
+                         "value":"https:\/\/meet.jit.si\/ConferenceStreamingLive"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1604,7 +1604,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"VERSION 1.09",
+                     "text":"VERSION 1.10",
                      "wrap":true
                     },
                  "type":"",
