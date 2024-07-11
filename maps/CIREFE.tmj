@@ -1450,24 +1450,14 @@
                  "y":281
                 }, 
                 {
-                 "height":55.5,
+                 "height":65.5,
                  "id":37,
                  "name":"ExcelDraw",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/google.com"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"this is a test"
+                         "value":"https:\/\/edraw.srv.viridis.info\/"
                         }],
                  "rotation":0,
                  "type":"aera",
@@ -1631,7 +1621,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"VERSION 1.05",
+                     "text":"VERSION 1.06",
                      "wrap":true
                     },
                  "type":"",
