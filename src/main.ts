@@ -40,7 +40,7 @@ WA.onInit().then(() => {
                 const y = 7 * 32;
                 WA.player.moveTo(x, y);
             } else {
-                WA.nav.goToRoom("https://play.workadventu.re/@/universite-rennes-2/metavers/accueil-villejean#moveTo=from-presidence")
+                WA.nav.goToRoom("https://workadventure.lab.viridis.info/_/global/workadventure.lab.viridis.info/map-storage/maps/maps/Accueil_Villejean.tmj#moveTo=from-presidence")
             }
         }
     });
