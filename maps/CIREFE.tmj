@@ -1621,7 +1621,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"VERSION 1.06",
+                     "text":"VERSION 1.07",
                      "wrap":true
                     },
                  "type":"",
@@ -1629,6 +1629,23 @@
                  "width":200,
                  "x":2375.83333333333,
                  "y":1522.5
+                }, 
+                {
+                 "height":55.5,
+                 "id":55,
+                 "name":"PenPott",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/digipad.app\/p\/818029\/156aa9ba5f314"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":103.5,
+                 "x":1609.58333333333,
+                 "y":928.25
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1779,7 +1796,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":55,
+ "nextobjectid":56,
  "orientation":"orthogonal",
  "properties":[
         {
