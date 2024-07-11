@@ -1457,7 +1457,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/edraw.srv.viridis.info\/"
+                         "value":"https:\/\/google.com"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1631,7 +1631,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"VERSION 1.03",
+                     "text":"VERSION 1.04",
                      "wrap":true
                     },
                  "type":"",
