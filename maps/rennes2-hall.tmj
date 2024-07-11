@@ -4168,6 +4168,57 @@
                  "width":83,
                  "x":671.333333333333,
                  "y":805.666666666667
+                }, 
+                {
+                 "height":109,
+                 "id":135,
+                 "name":"TO CONFERENCE",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/CIREFE.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":59,
+                 "x":1794.5,
+                 "y":2289.5
+                }, 
+                {
+                 "height":109,
+                 "id":136,
+                 "name":"TO CONFERENCE",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/CIREFE.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":59,
+                 "x":1725.16666666667,
+                 "y":108.166666666667
+                }, 
+                {
+                 "height":109,
+                 "id":140,
+                 "name":"TO HALL OF FAME",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/CIREFE.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":59,
+                 "x":1871.83333333333,
+                 "y":106.833333333333
                 }],
          "offsetx":-1.33333333333334,
          "offsety":-2.66666666666669,
@@ -4352,7 +4403,7 @@
          "y":0
         }],
  "nextlayerid":70,
- "nextobjectid":133,
+ "nextobjectid":141,
  "orientation":"orthogonal",
  "properties":[
         {
