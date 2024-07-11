@@ -1468,16 +1468,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/edraw.srv.viridis.info\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Appuyez sur ESPACE ou touchez pour laisser vos messages"
                         }],
                  "rotation":0,
                  "type":"",
