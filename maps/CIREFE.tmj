@@ -1433,23 +1433,6 @@
                  "y":1646.66666666667
                 }, 
                 {
-                 "height":92,
-                 "id":36,
-                 "name":"See Presentations",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/digipad.app\/p\/785177\/c789a4724c9be"
-                        }],
-                 "rotation":0,
-                 "type":"aera",
-                 "visible":true,
-                 "width":112,
-                 "x":761,
-                 "y":281
-                }, 
-                {
                  "height":65.5,
                  "id":37,
                  "name":"ExcelDraw",
@@ -1633,7 +1616,7 @@
                 {
                  "height":55.5,
                  "id":55,
-                 "name":"PenPott",
+                 "name":"Digipad",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -1644,8 +1627,25 @@
                  "type":"area",
                  "visible":true,
                  "width":103.5,
-                 "x":1609.58333333333,
-                 "y":928.25
+                 "x":761.583333333333,
+                 "y":286.25
+                }, 
+                {
+                 "height":55.5,
+                 "id":56,
+                 "name":"Digipad",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/youtube.com\/live\/pXfyS8cVV9g"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":103.5,
+                 "x":1620.25,
+                 "y":1004.25
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1796,7 +1796,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":56,
+ "nextobjectid":57,
  "orientation":"orthogonal",
  "properties":[
         {
