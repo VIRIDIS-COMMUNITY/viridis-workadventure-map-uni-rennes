@@ -1433,34 +1433,7 @@
                  "y":1646.66666666667
                 }, 
                 {
-                 "height":92,
-                 "id":36,
-                 "name":"Live Presentations",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/digipad.app\/p\/818029\/156aa9ba5f314"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press Space to go to the Pad"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":112,
-                 "x":761,
-                 "y":281
-                }, 
-                {
-                 "height":55.5,
+                 "height":65.5,
                  "id":37,
                  "name":"ExcelDraw",
                  "properties":[
@@ -1468,19 +1441,9 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/edraw.srv.viridis.info\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press Space to interact"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"aera",
                  "visible":true,
                  "width":103.5,
                  "x":1725.5,
@@ -1494,7 +1457,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/watch?v=ZxL5Hm3mIBk"
+                         "value":"https:\/\/www.youtube.com\/embed\/pXfyS8cVV9g"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1532,60 +1495,157 @@
                 }, 
                 {
                  "ellipse":true,
-                 "height":69.3333,
-                 "id":40,
-                 "name":"HallOfFame",
+                 "height":65.3333,
+                 "id":43,
+                 "name":"Hall Of Fame",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"HallOfFame.tmj#Enterance"
+                         "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/HallOfFame.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":73.3333,
-                 "x":4781.51516818182,
-                 "y":265.33335
+                 "x":4782.33335,
+                 "y":322.33335
                 }, 
                 {
-                 "height":30,
-                 "id":41,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "fontfamily":"Segoe Script",
-                     "pixelsize":19,
-                     "text":"ICEBREAKER"
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":150,
-                 "x":3337.5,
-                 "y":1091
-                }, 
-                {
-                 "height":141.333,
-                 "id":47,
-                 "name":"jitsi 3",
+                 "ellipse":true,
+                 "height":69.3333,
+                 "id":48,
+                 "name":"To The Lab",
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"exitUrl",
                          "type":"string",
-                         "value":"Salle3"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
+                         "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/lab.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":288,
-                 "x":3263,
-                 "y":1049.3335
+                 "width":73.3333,
+                 "x":4219.33335,
+                 "y":333.33335
+                }, 
+                {
+                 "height":55.5,
+                 "id":49,
+                 "name":"PenPott",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/penpot.srv.viridis.info\/"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":103.5,
+                 "x":1734.25,
+                 "y":928.25
+                }, 
+                {
+                 "height":106.166666666667,
+                 "id":50,
+                 "name":"PenPott",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/penpot.srv.viridis.info\/"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":152.833333333333,
+                 "x":2533.58333333333,
+                 "y":289.583333333333
+                }, 
+                {
+                 "height":106.167,
+                 "id":51,
+                 "name":"EtherPad",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/etherpad.srv.viridis.info"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":152.833,
+                 "x":2788.91683333333,
+                 "y":292.249833333333
+                }, 
+                {
+                 "height":106.167,
+                 "id":52,
+                 "name":"PrivNote",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/privnote.srv.viridis.info"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":152.833,
+                 "x":3080.5835,
+                 "y":287.583166666667
+                }, 
+                {
+                 "height":19,
+                 "id":53,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"VERSION 1.09",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":200,
+                 "x":2375.83333333333,
+                 "y":1522.5
+                }, 
+                {
+                 "height":55.5,
+                 "id":55,
+                 "name":"Digipad",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/digipad.app\/p\/818029\/156aa9ba5f314"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":103.5,
+                 "x":761.583333333333,
+                 "y":286.25
+                }, 
+                {
+                 "height":55.5,
+                 "id":56,
+                 "name":"Digipad",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/youtube.com\/live\/pXfyS8cVV9g"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":103.5,
+                 "x":1620.25,
+                 "y":1004.25
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1735,8 +1795,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":79,
- "nextobjectid":48,
+ "nextlayerid":78,
+ "nextobjectid":57,
  "orientation":"orthogonal",
  "properties":[
         {

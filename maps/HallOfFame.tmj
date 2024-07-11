@@ -118,7 +118,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -239,7 +239,7 @@
          "name":"M floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -360,7 +360,7 @@
          "name":"White walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -481,7 +481,7 @@
          "name":"M floor 3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -602,7 +602,7 @@
          "name":"Stair",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -723,7 +723,7 @@
          "name":"Font",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -844,7 +844,7 @@
          "name":"Game zone",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -965,7 +965,7 @@
          "name":"M Paintings",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -1086,7 +1086,7 @@
          "name":"wall stub 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -1198,7 +1198,7 @@
             4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 0, 0, 0, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140, 4139, 4140,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 4712, 4713, 4714, 4715, 4716, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 4716, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 2684359236, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -1325,16 +1325,16 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":110,
          "id":122,
-         "name":"to-villejean",
+         "name":"To-conference",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/universite-rennes-2\/metavers\/accueil-villejean"
+                 "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/CIREFE.tmj"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":51,
          "x":0,
          "y":0
@@ -1851,11 +1851,6 @@
                  "name":"Enterance",
                  "properties":[
                         {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"HallOfFame.tmj#HallOfFame"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/view.genial.ly\/651de34cf99fbe00101a2792"
@@ -2257,6 +2252,71 @@
                  "width":83.1971924729232,
                  "x":950.868276154172,
                  "y":2261.45095903673
+                }, 
+                {
+                 "height":48,
+                 "id":231,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"TO CONFERENCE",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":111,
+                 "x":75.5,
+                 "y":3397.5
+                }, 
+                {
+                 "height":19,
+                 "id":233,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"To Lab",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":83,
+                 "x":1507.83333333333,
+                 "y":3386.5
+                }, 
+                {
+                 "height":72.9362,
+                 "id":235,
+                 "name":"To Lab",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/rennes2-hall.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":307.968,
+                 "x":1420.016,
+                 "y":3402.5319
+                }, 
+                {
+                 "height":19,
+                 "id":236,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"VERSION 1.03",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":200,
+                 "x":776,
+                 "y":3538.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2380,7 +2440,7 @@
          "name":"Info",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -2501,7 +2561,7 @@
          "name":"Walls1",
          "opacity":0.7,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -2622,7 +2682,7 @@
          "name":"Archs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -2743,7 +2803,7 @@
          "name":"Above arch",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -2864,7 +2924,7 @@
          "name":"M above roof",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -2991,7 +3051,7 @@
          "y":0
         }],
  "nextlayerid":124,
- "nextobjectid":231,
+ "nextobjectid":237,
  "orientation":"orthogonal",
  "properties":[
         {
