@@ -1435,25 +1435,15 @@
                 {
                  "height":92,
                  "id":36,
-                 "name":"livre d'or",
+                 "name":"See Presentations",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/digipad.app\/p\/785177\/c789a4724c9be"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Appuyez sur ESPACE ou touchez pour laisser vos messages"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"aera",
                  "visible":true,
                  "width":112,
                  "x":761,
@@ -1470,7 +1460,7 @@
                          "value":"https:\/\/edraw.srv.viridis.info\/"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"aera",
                  "visible":true,
                  "width":103.5,
                  "x":1725.5,
@@ -1555,6 +1545,90 @@
                  "width":73.3333,
                  "x":4219.33335,
                  "y":333.33335
+                }, 
+                {
+                 "height":55.5,
+                 "id":49,
+                 "name":"PenPott",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/penpot.srv.viridis.info\/"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":103.5,
+                 "x":1734.25,
+                 "y":928.25
+                }, 
+                {
+                 "height":106.166666666667,
+                 "id":50,
+                 "name":"PenPott",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/penpot.srv.viridis.info\/"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":152.833333333333,
+                 "x":2533.58333333333,
+                 "y":289.583333333333
+                }, 
+                {
+                 "height":106.167,
+                 "id":51,
+                 "name":"EtherPad",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/etherpad.srv.viridis.info"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":152.833,
+                 "x":2788.91683333333,
+                 "y":292.249833333333
+                }, 
+                {
+                 "height":106.167,
+                 "id":52,
+                 "name":"PrivNote",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/privnote.srv.viridis.info"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":152.833,
+                 "x":3080.5835,
+                 "y":287.583166666667
+                }, 
+                {
+                 "height":19,
+                 "id":53,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"VERSION 1.01",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":200,
+                 "x":2375.83333333333,
+                 "y":1522.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1705,7 +1779,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":49,
+ "nextobjectid":55,
  "orientation":"orthogonal",
  "properties":[
         {

@@ -3607,12 +3607,12 @@
                 {
                  "height":177.5,
                  "id":88,
-                 "name":"Tableau de bord",
+                 "name":"Planning Board",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/view.genial.ly\/640a66bf78119e00137be996"
+                         "value":"https:\/\/tree.taiga.io\/project\/kamitor-vcr\/taskboard\/sprint-3-data-attache-sprint"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -3651,7 +3651,7 @@
                 {
                  "height":153,
                  "id":95,
-                 "name":"Pr\u00e9sentation",
+                 "name":"Presentations",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -3724,7 +3724,7 @@
                 {
                  "height":108,
                  "id":104,
-                 "name":"Mathilde Fontalbe et Maelenn Kokota Ngualo",
+                 "name":"Exersizes Board",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -3826,7 +3826,7 @@
                 {
                  "height":112,
                  "id":111,
-                 "name":"ueo pro fle G7",
+                 "name":"background Resources",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -3877,7 +3877,7 @@
                 {
                  "height":110.666666666667,
                  "id":114,
-                 "name":"EG italien",
+                 "name":"VIRIDIS ITALY",
                  "properties":[
                         {
                          "name":"openTab",
@@ -3997,7 +3997,7 @@
                 {
                  "height":170,
                  "id":119,
-                 "name":"Activit\u00e9 Pierre",
+                 "name":"Activities Of the Day",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -4014,7 +4014,7 @@
                 {
                  "height":69,
                  "id":120,
-                 "name":"Ressources activit\u00e9",
+                 "name":"Background Resources",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -4031,7 +4031,7 @@
                 {
                  "height":112,
                  "id":122,
-                 "name":"Boite \u00e0 outils FLE",
+                 "name":"Team room ",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -4048,7 +4048,7 @@
                 {
                  "height":174,
                  "id":123,
-                 "name":"salle sup",
+                 "name":"general sup",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4087,12 +4087,12 @@
                 {
                  "height":168,
                  "id":125,
-                 "name":"visite SCD",
+                 "name":"Visit Wiki",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/cursus.univ-rennes2.fr\/mod\/h5pactivity\/view.php?id=722369"
+                         "value":"https:\/\/value-chain-hackers.github.io\/WikiVHC\/"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4104,7 +4104,7 @@
                 {
                  "height":161.333333333333,
                  "id":126,
-                 "name":"Enora AUBIN et Emmy",
+                 "name":"Team 4",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -4121,7 +4121,7 @@
                 {
                  "height":125.333333333333,
                  "id":130,
-                 "name":"ABDOU Yourdasmine et LOISON Rosanna",
+                 "name":"Team 1",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -4138,7 +4138,7 @@
                 {
                  "height":124,
                  "id":131,
-                 "name":"Clyde et Tanguy",
+                 "name":"Team 3",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -4155,7 +4155,7 @@
                 {
                  "height":96,
                  "id":132,
-                 "name":"monde virtuel ELICC",
+                 "name":"Verbal Testing",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -4173,7 +4173,7 @@
          "offsety":-2.66666666666669,
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
