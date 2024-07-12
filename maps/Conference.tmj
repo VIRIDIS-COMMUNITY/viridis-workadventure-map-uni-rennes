@@ -1604,7 +1604,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"VERSION 1.11",
+                     "text":"VERSION 1.12",
                      "wrap":true
                     },
                  "type":"",
@@ -1720,7 +1720,7 @@
                  "text":
                     {
                      "fontfamily":"Terminal",
-                     "text":"VIEW ONLY",
+                     "text":"VIEW ->>>>",
                      "wrap":true
                     },
                  "type":"",
@@ -1728,6 +1728,125 @@
                  "width":150,
                  "x":1633,
                  "y":572.5
+                }, 
+                {
+                 "height":19,
+                 "id":67,
+                 "name":"Explain-Thearther",
+                 "rotation":-90,
+                 "text":
+                    {
+                     "fontfamily":"Terminal",
+                     "text":"PRESENTATIONS",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":160,
+                 "x":1651,
+                 "y":572.5
+                }, 
+                {
+                 "height":19,
+                 "id":68,
+                 "name":"Explain-Thearther",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Terminal",
+                     "text":"<-----",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":150,
+                 "x":1693,
+                 "y":871.833333333333
+                }, 
+                {
+                 "height":19,
+                 "id":69,
+                 "name":"Explain-Thearther",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Terminal",
+                     "text":"<-----",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":150,
+                 "x":1689,
+                 "y":767.166666666667
+                }, 
+                {
+                 "height":33,
+                 "id":70,
+                 "name":"Explain-Thearther",
+                 "rotation":-90,
+                 "text":
+                    {
+                     "fontfamily":"Terminal",
+                     "text":"PRESENTATION STAGE <-----",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":150,
+                 "x":1626.33333333333,
+                 "y":1054.16666666667
+                }, 
+                {
+                 "height":53,
+                 "id":71,
+                 "name":"Explain-Thearther",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Terminal",
+                     "text":"<<--- PRESENTATION STAGE ",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":167,
+                 "x":2367,
+                 "y":946.5
+                }, 
+                {
+                 "height":53,
+                 "id":72,
+                 "name":"Explain-Thearther",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Terminal",
+                     "text":"--->>",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":117,
+                 "x":2785.5,
+                 "y":1007.5
+                }, 
+                {
+                 "height":53,
+                 "id":73,
+                 "name":"Explain-Thearther",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Terminal",
+                     "text":"BREAKOUT ROOMS \/ IDEATION",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":117,
+                 "x":2678.5,
+                 "y":989.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1878,7 +1997,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":67,
+ "nextobjectid":74,
  "orientation":"orthogonal",
  "properties":[
         {
