@@ -4170,21 +4170,21 @@
                  "y":805.666666666667
                 }, 
                 {
-                 "height":109,
+                 "height":141,
                  "id":135,
-                 "name":"TO CONFERENCE",
+                 "name":"TO HALL OF FAME",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/CIREFE.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":59,
-                 "x":1794.5,
-                 "y":2289.5
+                 "width":276.333333333333,
+                 "x":1691.83333333333,
+                 "y":2257.5
                 }, 
                 {
                  "height":109,
@@ -4192,7 +4192,7 @@
                  "name":"TO CONFERENCE",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/Conference.tmj"
                         }],
@@ -4202,23 +4202,6 @@
                  "width":59,
                  "x":1725.16666666667,
                  "y":108.166666666667
-                }, 
-                {
-                 "height":109,
-                 "id":140,
-                 "name":"TO HALL OF FAME",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/HallOfFame.tmj"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":59,
-                 "x":1871.83333333333,
-                 "y":106.833333333333
                 }, 
                 {
                  "height":19,
@@ -4235,6 +4218,23 @@
                  "width":200,
                  "x":1724,
                  "y":22.5
+                }, 
+                {
+                 "height":147.666666666667,
+                 "id":142,
+                 "name":"TO CONFERENCE",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/workadventure.lab.viridis.info\/_\/global\/workadventure.lab.viridis.info\/map-storage\/maps\/maps\/Conference.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":173.666666666667,
+                 "x":1731.83333333333,
+                 "y":124.166666666667
                 }],
          "offsetx":-1.33333333333334,
          "offsety":-2.66666666666669,
@@ -4419,7 +4419,7 @@
          "y":0
         }],
  "nextlayerid":70,
- "nextobjectid":142,
+ "nextobjectid":143,
  "orientation":"orthogonal",
  "properties":[
         {

@@ -1543,8 +1543,8 @@
                  "type":"area",
                  "visible":true,
                  "width":103.5,
-                 "x":1734.25,
-                 "y":928.25
+                 "x":3680.25,
+                 "y":310.25
                 }, 
                 {
                  "height":106.166666666667,
@@ -1631,23 +1631,6 @@
                  "y":286.25
                 }, 
                 {
-                 "height":55.5,
-                 "id":56,
-                 "name":"Digipad",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/youtube.com\/live\/pXfyS8cVV9g"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":103.5,
-                 "x":1620.25,
-                 "y":1004.25
-                }, 
-                {
                  "height":19,
                  "id":57,
                  "name":"Couch1-Icebreaker",
@@ -1694,6 +1677,57 @@
                  "width":200,
                  "x":2110.5,
                  "y":1649.16666666667
+                }, 
+                {
+                 "height":19,
+                 "id":62,
+                 "name":"Explain-Thearther",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Terminal",
+                     "text":"VIEW ONLY",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":150,
+                 "x":1824.5,
+                 "y":768.5
+                }, 
+                {
+                 "height":33,
+                 "id":65,
+                 "name":"Explain-Thearther",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Terminal",
+                     "text":"VIEW ONLY",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":150,
+                 "x":1824,
+                 "y":872.5
+                }, 
+                {
+                 "height":19,
+                 "id":66,
+                 "name":"Explain-Thearther",
+                 "rotation":-90,
+                 "text":
+                    {
+                     "fontfamily":"Terminal",
+                     "text":"VIEW ONLY",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":150,
+                 "x":1633,
+                 "y":572.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1844,7 +1878,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":61,
+ "nextobjectid":67,
  "orientation":"orthogonal",
  "properties":[
         {
