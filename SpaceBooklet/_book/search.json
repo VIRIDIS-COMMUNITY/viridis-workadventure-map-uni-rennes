@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Value Chain Hackers Workspace",
+    "title": "SpaceBooklet",
     "section": "",
     "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
     "crumbs": [
@@ -10,33 +10,113 @@
     ]
   },
   {
-    "objectID": "level designs.html",
-    "href": "level designs.html",
-    "title": "3  Introduction",
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "This is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "8  Summary",
+    "objectID": "Getting_Started.html",
+    "href": "Getting_Started.html",
+    "title": "2  Getting Started",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.",
+    "text": "Content for Getting Started goes here.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Getting Started</span>"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "Fundamentals_of_Digital_Work.html",
+    "href": "Fundamentals_of_Digital_Work.html",
+    "title": "3  Fundamentals of Digital Work",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "4 Hello Test",
     "crumbs": [
-      "References"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentals of Digital Work</span>"
+    ]
+  },
+  {
+    "objectID": "Essential_Skills_and_Techniques.html",
+    "href": "Essential_Skills_and_Techniques.html",
+    "title": "4  Essential Skills and Techniques",
+    "section": "",
+    "text": "5 Essential Skills and Techniques\nContent for Essential Skills and Techniques goes here.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Essential Skills and Techniques</span>"
+    ]
+  },
+  {
+    "objectID": "Advanced_Digital_Techniques.html",
+    "href": "Advanced_Digital_Techniques.html",
+    "title": "5  Advanced Digital Techniques",
+    "section": "",
+    "text": "6 Advanced Digital Techniques\nContent for Advanced Digital Techniques goes here.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Advanced Digital Techniques</span>"
+    ]
+  },
+  {
+    "objectID": "Case_Studies_and_Real_World_Applications.html",
+    "href": "Case_Studies_and_Real_World_Applications.html",
+    "title": "6  Case Studies and Real World Applications",
+    "section": "",
+    "text": "7 Case Studies and Real World Applications\nContent for Case Studies and Real World Applications goes here.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Case Studies and Real World Applications</span>"
+    ]
+  },
+  {
+    "objectID": "Troubleshooting_and_Problem_Solving.html",
+    "href": "Troubleshooting_and_Problem_Solving.html",
+    "title": "7  Troubleshooting and Problem Solving",
+    "section": "",
+    "text": "8 Troubleshooting and Problem Solving\nContent for Troubleshooting and Problem Solving goes here.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Troubleshooting and Problem Solving</span>"
+    ]
+  },
+  {
+    "objectID": "Exploring_New_Frontiers.html",
+    "href": "Exploring_New_Frontiers.html",
+    "title": "8  Exploring New Frontiers",
+    "section": "",
+    "text": "9 Exploring New Frontiers\nContent for Exploring New Frontiers goes here.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Exploring New Frontiers</span>"
+    ]
+  },
+  {
+    "objectID": "Conclusion.html",
+    "href": "Conclusion.html",
+    "title": "9  Conclusion",
+    "section": "",
+    "text": "10 Conclusion\nContent for Conclusion goes here.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Conclusion</span>"
+    ]
+  },
+  {
+    "objectID": "Appendices.html",
+    "href": "Appendices.html",
+    "title": "10  Appendices",
+    "section": "",
+    "text": "11 Appendices\nContent for Appendices goes here.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Appendices</span>"
+    ]
+  },
+  {
+    "objectID": "Fundamentals_of_Digital_Work.html#hello-test-1",
+    "href": "Fundamentals_of_Digital_Work.html#hello-test-1",
+    "title": "3  Fundamentals of Digital Work",
+    "section": "4.1 Hello Test",
+    "text": "4.1 Hello Test\n\n4.1.1 hello Test\n\n4.1.1.1 hello Test\nwqdqw",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentals of Digital Work</span>"
     ]
   }
 ]
