@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "Value Chain Hackers Workspace"
+  author: "Christiaan Verhoef"
+  date: "24/07/2024"
+  chapters:
+    - index.qmd
+    - Getting Started.qmd
+    - Fundementals of Digital work.qmd
+    - level designs.qmd
+    - Essential Skills And techniques.qmd
+    - Advanced Digital Techniques.qmd
+    - UseCases.qmd
+    - Troubleshooting and problems.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
