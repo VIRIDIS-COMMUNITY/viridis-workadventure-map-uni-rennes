@@ -2,28 +2,17 @@ project:
   type: book
 
 book:
-  title: "Value Chain Hackers Workspace"
-  author: "Christiaan Verhoef"
-  date: "24/07/2024"
+  title: "SpaceBooklet"
+  author: "Your Name"
   chapters:
     - index.qmd
-    - Getting Started.qmd
-    - Fundementals of Digital work.qmd
-    - level designs.qmd
-    - Essential Skills And techniques.qmd
-    - Advanced Digital Techniques.qmd
-    - UseCases.qmd
-    - Troubleshooting and problems.qmd
-    - summary.qmd
-    - references.qmd
-
-bibliography: references.bib
-
-format:
-  html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
-
-
-
+    - intro.qmd
+    - Getting_Started.qmd
+    - Fundamentals_of_Digital_Work.qmd
+    - Essential_Skills_and_Techniques.qmd
+    - Advanced_Digital_Techniques.qmd
+    - Case_Studies_and_Real_World_Applications.qmd
+    - Troubleshooting_and_Problem_Solving.qmd
+    - Exploring_New_Frontiers.qmd
+    - Conclusion.qmd
+    - Appendices.qmd
