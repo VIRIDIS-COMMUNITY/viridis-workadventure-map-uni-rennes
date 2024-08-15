@@ -53,7 +53,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
@@ -109,7 +109,7 @@
          "name":"Calque de Tuiles 10",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
@@ -137,7 +137,7 @@
          "name":"FENETRES",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
@@ -165,7 +165,7 @@
          "name":"exterieur",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
@@ -193,7 +193,7 @@
          "name":"Sol",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
@@ -221,7 +221,7 @@
          "name":"murs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
@@ -249,7 +249,7 @@
          "name":"ascenseur",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
@@ -260,10 +260,9 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":74.6666666666667,
                  "id":1,
-                 "name":"portes",
+                 "name":"door",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -271,6 +270,7 @@
                          "value":"https:\/\/view.genial.ly\/6613010e51ca9d00142e32f0"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":84.6666666666667,
                  "x":199.333333333333,
@@ -363,7 +363,7 @@
          "value":"Ascenseur CIREFE"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.1",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -430,6 +430,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":15
 }
