@@ -531,7 +531,7 @@
       "name": "start",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": true,
+      "visible": false,
       "width": 15,
       "x": 0,
       "y": 0
@@ -1067,7 +1067,7 @@
       "name": "Calque de Tuiles 10",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": true,
+      "visible": false,
       "width": 15,
       "x": 0,
       "y": 0
@@ -1335,7 +1335,7 @@
       "name": "FENETRES",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": true,
+      "visible": false,
       "width": 15,
       "x": 0,
       "y": 0
@@ -1603,7 +1603,7 @@
       "name": "exterieur",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": true,
+      "visible": false,
       "width": 15,
       "x": 0,
       "y": 0
@@ -1871,7 +1871,7 @@
       "name": "Sol",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": true,
+      "visible": false,
       "width": 15,
       "x": 0,
       "y": 0
@@ -2139,7 +2139,7 @@
       "name": "murs",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": true,
+      "visible": false,
       "width": 15,
       "x": 0,
       "y": 0
@@ -2407,7 +2407,7 @@
       "name": "ascenseur",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": true,
+      "visible": false,
       "width": 15,
       "x": 0,
       "y": 0
@@ -2417,7 +2417,7 @@
       "objects": [
         {
           "id": 1,
-          "name": "portes",
+          "name": "door",
           "visible": true,
           "x": 199.333333333333,
           "y": 242,
@@ -2430,7 +2430,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 84.6666666666667
         }
       ],
@@ -2979,12 +2979,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.1",
+  "tiledversion": "1.11.0",
   "tilesets": [
     {
       "columns": 13,
       "firstgid": 1,
-      "image": "ascenseur-chunk-1-755aa479.png",
+      "image": "ascenseur-chunk-1-e2ec927e.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -3050,6 +3050,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.10",
   "width": 15
 }
