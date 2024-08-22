@@ -1,6 +1,0 @@
---- 
-title: "Appendices" 
---- 
-# Appendices 
- 
-Content for Appendices goes here. 

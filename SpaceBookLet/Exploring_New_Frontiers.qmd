@@ -1,6 +1,0 @@
---- 
-title: "Exploring New Frontiers" 
---- 
-# Exploring New Frontiers 
- 
-Content for Exploring New Frontiers goes here. 

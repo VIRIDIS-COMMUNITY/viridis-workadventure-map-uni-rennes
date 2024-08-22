@@ -1,6 +1,0 @@
---- 
-title: "Case Studies and Real World Applications" 
---- 
-# Case Studies and Real World Applications 
- 
-Content for Case Studies and Real World Applications goes here. 

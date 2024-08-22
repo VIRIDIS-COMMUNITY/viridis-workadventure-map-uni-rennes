@@ -1,6 +1,0 @@
---- 
-title: "Essential Skills and Techniques" 
---- 
-# Essential Skills and Techniques 
- 
-Content for Essential Skills and Techniques goes here. 
